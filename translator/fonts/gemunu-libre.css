@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'Gemunu Libre';
+	src: url('GemunuLibre-Regular.ttf');
+}
+@font-face {
+	font-family: 'Gemunu Libre Bold';
+	src: url('GemunuLibre-Bold.ttf');
+}
+@font-face {
+	font-family: 'Gemunu Libre Extra Bold';
+	src: url('GemunuLibre-ExtraBold.ttf');
+}
+@font-face {
+	font-family: 'Gemunu Libre Extra Light';
+	src: url('GemunuLibre-ExtraLight.ttf');
+}
+@font-face {
+	font-family: 'Gemunu Libre Light';
+	src: url('GemunuLibre-Light.ttf');
+}
+@font-face {
+	font-family: 'Gemunu Libre Medium';
+	src: url('GemunuLibre-Medium.ttf');
+}
+@font-face {
+	font-family: 'Gemunu Libre Semi Bold';
+	src: url('GemunuLibre-SemiBold.ttf');
+}

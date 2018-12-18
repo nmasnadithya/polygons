@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-Regular.ttf');
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-Black.ttf');
+	font-weight: 900;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-Bold.ttf');
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-ExtraBold.ttf');
+	font-weight: 800;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-ExtraLight.ttf');
+	font-weight: 200;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-Light.ttf');
+	font-weight: 300;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-Medium.ttf');
+	font-weight: 500;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-SemiBold.ttf');
+	font-weight: 600;
+}
+@font-face {
+	font-family: 'Noto Serif Sinhala';
+	src: url('NotoSerifSinhala-Thin.ttf');
+	font-weight: 100;
+}
